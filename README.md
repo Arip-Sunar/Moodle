@@ -65,3 +65,51 @@ Choose Open.
 Now the full Moodle source code is loaded in VS Code.
 
 You can now read, edit, add plugins, modify UI, etc.
+## ✅ To open + edit Moodle source code → VS Code is enough
+
+You only need:
+
+✔ VS Code
+✔ PHP extension in VS Code
+✔ XAMPP (to run Moodle)
+
+Nothing else.
+
+## 🧩 1) VS Code = Your PHP Editor
+
+VS Code becomes a full PHP editor when you install this extension:
+
+👉 PHP Intelephense
+
+(Search “Intelephense” in VS Code Extensions panel)
+
+This gives you:
+
+PHP autocomplete
+
+Error detection
+
+Go-to-definition
+
+IntelliSense
+
+Syntax highlighting
+
+So VS Code = PHP Editor.
+
+## 🧩 2) XAMPP = Runs Moodle (very important)
+
+XAMPP gives you:
+
+Apache (web server)
+
+PHP (runtime)
+
+MySQL/MariaDB (database)
+
+Moodle cannot run without these.
+
+🔻 So XAMPP is for running Moodle
+🔻 VS Code is for editing Moodle
+
+They work together.
