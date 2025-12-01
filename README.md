@@ -113,3 +113,9 @@ XAMPP gives you:
 🔻 VS Code is for editing Moodle
 
 They work together.
+📌 Final Setup Required to Work With Moodle
+## Tool	Purpose
+VS Code	Edit the PHP source code
+PHP Intelephense extension	Make VS Code a PHP editor
+XAMPP	Run Moodle on your computer
+Git	Clone Moodle repo from GitHub
