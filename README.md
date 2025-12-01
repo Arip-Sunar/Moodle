@@ -1,39 +1,67 @@
 # Moodle
 Adding the extra features and enabling Activity Tracking for the admin .Research work on Moodle
-##Installationand set up  guide for forking and cloning MOODLE source code directly inside the VS code 
-# Raylib Project Setup & Run Guide on Windows (Using MSYS2 UCRT Terminal)
 
-Welcome to the **Raylib setup and run guide!**  
-This document will walk you through installing MSYS2, setting up Raylib, and creating your first Raylib project on **Windows using the MSYS2 UCRT terminal.**
+# Installationand set up  guide for forking and cloning MOODLE source code directly inside the VS code 
 
----
+Welcome to the **moodle  setup and run guide!**  
 
-## 📌 What is Raylib?
 
-Raylib is a simple and easy-to-use **C library** designed to help you learn game programming and graphics development.  
-It's lightweight, beginner-friendly, and ideal for small game projects and graphical demos.
+## 📌 What is Moodle?
+
+Moodle is a free, open-source Learning Management System (LMS) used by schools, colleges, universities, and organizations to create online learning platforms.
 
 ---
 
-## ✅ Step 1: Install MSYS2
+## ✅ STEP 1 — Open VS Code
 
-MSYS2 is a minimalist Unix-like environment for Windows, providing essential development tools via the Pacman package manager.  
-We will use the **UCRT64 environment** of MSYS2, which supports modern Windows development.
+Just open VS Code — no need to open terminal yet.
 
-### Installation Instructions:
+## ✅ STEP 2 — Open the Command Palette
 
-1. Visit https://www.msys2.org/
-2. Download the installer:  
-   `msys2-x86_64-<version>.exe`
-3. Run the installer and follow on-screen instructions.
+## Press:
 
----
+Ctrl + Shift + P
 
-## 📥 Step 2: Install Required Packages
 
-Open **MSYS2 UCRT64 terminal** and run:
+## Type:
 
-```sh
-pacman -Syu
-pacman -S mingw-w64-ucrt-x86_64-gcc
-pacman -S mingw-w64-ucrt-x86_64-raylib
+Git: Clone
+
+
+**Click Git: Clone.!**
+
+## ✅ STEP 3 — Enter the Moodle GitHub URL
+
+Paste this in the input box:
+
+**https://github.com/moodle/moodle.git**
+
+
+Press Enter.
+
+## ✅ STEP 4 — Choose a folder on your computer
+
+VS Code will ask:
+
+“Select Repository Location”
+
+Choose any folder where you want to save the Moodle source code.
+
+Example:
+
+**D:\Projects\moodle**
+
+
+VS Code will automatically start cloning.
+
+## ✅ STEP 5 — Open the cloned repository
+
+After cloning is complete, VS Code shows:
+
+“Open Repository?”
+
+Choose Open.
+
+Now the full Moodle source code is loaded in VS Code.
+
+You can now read, edit, add plugins, modify UI, etc.
