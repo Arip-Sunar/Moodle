@@ -115,10 +115,10 @@ XAMPP gives you:
 They work together.
 📌 Final Setup Required to Work With Moodle
 ## Tool	Purpose
-VS Code	for Editting the PHP source code
+**VS Code**for Editting the PHP source code
 
-PHP Intelephense extensionfor making VS Code a PHP editor
+**PHP Intelephense** extensionfor making VS Code a PHP editor
 
-XAMPP	Run Moodle on your computer
+**XAMPP**	Run Moodle on your computer
 
 Git	Clone Moodle repo from GitHub
