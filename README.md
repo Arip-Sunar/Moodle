@@ -114,7 +114,7 @@ XAMPP gives you:
 
 They work together.
 📌 Final Setup Required to Work With Moodle
-## Tool	Purpose
+## 🛠️ Tool	Purpose
 **VS Code**for Editting the PHP source code
 
 **PHP Intelephense** extensionfor making VS Code a PHP editor
