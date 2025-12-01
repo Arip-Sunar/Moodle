@@ -85,15 +85,15 @@ VS Code becomes a full PHP editor when you install this extension:
 
 This gives you:
 
-PHP autocomplete
+1.PHP autocomplete
 
-Error detection
+2.Error detection
 
-Go-to-definition
+3.Go-to-definition
 
-IntelliSense
+4.IntelliSense
 
-Syntax highlighting
+5.Syntax highlighting
 
 So VS Code = PHP Editor.
 
@@ -101,13 +101,13 @@ So VS Code = PHP Editor.
 
 XAMPP gives you:
 
-Apache (web server)
+1.Apache (web server)
 
-PHP (runtime)
+2.PHP (runtime)
 
-MySQL/MariaDB (database)
+3.MySQL/MariaDB (database)
 
-Moodle cannot run without these.
+**Moodle cannot run without these.**
 
 🔻 So XAMPP is for running Moodle
 🔻 VS Code is for editing Moodle
